@@ -1,0 +1,72 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+env.bak/
+venv.bak/
+.Python
+
+# PyInstaller
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+
+# IDEs
+.idea/
+.vscode/
+.spyderproject
+.spyproject
+
+# OS-specific files
+.DS_Store
+*~
+Thumbs.db
+ehthumbs.db
+
+# never commit pickles
+*.pkl
+
+# specific files
+data_voor_lotte.py
+data_vis.py
+112
+plot_test_MSE
+plot12
+plot20
+plot28
+chi2_results_expanded_df.csv
+fonts/lm/
